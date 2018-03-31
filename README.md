@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Grupo de Produção de Conteúdo Digital para Ensino de Física
 
-You can use the [editor on GitHub](https://github.com/buelbr/prodefis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este é o portal de apresentação do grupo, listando os membros, os projetos e o conteúdo produzido.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pesquisadores
+- Bruno Lustosa de Moura
+- Calistrato Soares da Câmara Neto
+- Flávio Urbano da Silva
+- Geraldo Felipe de Souza Filho
+- Manoel Leonel de Oliveira Neto
+- Samuel Rodrigues Gomes Júnior
+- Tibério Magno de Lima Alves
 
-### Markdown
+### Estudantes
+- Aluno de mestrado 1
+- Aluno de mestrado 2
+- Aluno de Graduação 1
+- Aluno de Graduação 2
+- Aluno de Ensino Médio 1
+- Aluno de Ensino Médio 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buelbr/prodefis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contato
